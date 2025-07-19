@@ -33,19 +33,19 @@ I'm a passionate **Full-Stack Web Developer** from Nepal 🇳🇵, building robu
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Hotel Booking Web App** | Full-stack hotel booking system with real-time availability & secure payments | Next.js, TailwindCSS, Firebase |
+| **Hotel Booking Web App** | Full-stack hotel booking system with real-time availability & secure payments | Next.js, TailwindCSS, Nest.js, MongoDB |
 | **Bini International Website** | Multi-page CMS-integrated website for an industrial supply company | Next.js, Strapi, REST API |
-| **School Management SaaS** *(Coming Soon)* | Admin dashboard with parent/teacher/student portals | Next.js, NestJS, PostgreSQL, Prisma |
 
-👉 Check out more projects in my [Repositories](https://github.com/SaphalSapkota?tab=repositories)
+
+👉 Check out more projects in my [Repositories](https://github.com/safal419?tab=repositories)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saphalsapkota)
-[![Portfolio Website](https://img.shields.io/badge/-My%20Website-000?style=flat&logo=github)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saphalsapkota.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saphal-sapkota-5573a924a)
+[![Portfolio Website](https://img.shields.io/badge/-My%20Website-000?style=flat&logo=github)](https://saphalsapkota.com.np)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:safals2059@gmail.com)
 
 ---
 
